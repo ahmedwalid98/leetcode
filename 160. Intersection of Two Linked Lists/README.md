@@ -45,7 +45,7 @@ From the head of A, it reads as [1,9,1,2,4]. From the head of B, it reads as [3,
 
 Example 3:
 
-[Alt](https://assets.leetcode.com/uploads/2021/03/05/160_example_3.png)
+[Alt] (https://assets.leetcode.com/uploads/2021/03/05/160_example_3.png)
 
 ```
 Input: intersectVal = 0, listA = [2,6,4], listB = [1,5], skipA = 3, skipB = 2
